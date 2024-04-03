@@ -1,0 +1,14 @@
+raw: 0.9
+endpoint: GET
+metadata:
+  title: Salesforce account listing
+  description: List salesforce accounts
+  tags:
+    - salesforce
+code: sql
+codeFile: gp.sql
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
