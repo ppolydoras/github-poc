@@ -1,3 +1,2 @@
-select * 
-from "example-salesforce"."salesforce_account"
+select * from "example-salesforce"."salesforce_account"
 
